@@ -1,7 +1,8 @@
 # ESP32-Dino-Bot-Game
 This Arduino LCD game lets players control a jumping character to avoid obstacles. A keypad is used for actions, and LEDs add flair. It features a splash screen, access code, "Best Score" storage, combining electronics, programming, and gaming in an engaging project.
 
-![Board Image](https://github.com/nawabusamabhatti/ESP32-Dino-Bot-Game/assets/69959257/84e491c0-5b6c-40d9-bd95-4e105ed1468c)
+![Board Image](https://github.com/nawabusamabhatti/ESP32-Dino-Bot-Game/assets/69959257/38cddc1d-0ff6-45bb-b917-e54f6559c6e2)
+
 
 
 
